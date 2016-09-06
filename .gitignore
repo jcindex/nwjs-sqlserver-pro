@@ -1,6 +1,2 @@
-!.gitignore
-!package.json
-!app
-!app/*
 node_modules
 node_modules/*
